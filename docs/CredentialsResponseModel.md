@@ -1,0 +1,9 @@
+# CredentialsResponseModel
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**credentials** | [**dict(str, CredentialResponseModel)**](CredentialResponseModel.md) | Credential information by purpose. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
