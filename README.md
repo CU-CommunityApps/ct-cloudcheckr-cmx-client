@@ -21,6 +21,11 @@ docker run --rm -v ${PWD}:/local swaggerapi/swagger-codegen-cli-v3:3.0.24 genera
     --git-repo-id ct-cloudcheckr-cmx-client
 ```
 
+## Change Log
+
+### 1.0.1
+- Fix base URL to https://api-us.cloudcheckr.com
+
 ## Requirements.
 
 Python 2.7 and 3.4+
